@@ -1,0 +1,4 @@
+2018.10.15 at 23:03:29 CST INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting Skye2Application on pilotskyegem.local with PID 5744 (/Users/lc/eclipse-workspace/skye-2/bin/main started by lc in /Users/lc/eclipse-workspace/skye-2)
+2018.10.15 at 23:03:29 CST INFO  org.springframework.boot.SpringApplication 680 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018.10.15 at 23:03:29 CST INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started Skye2Application in 0.644 seconds (JVM running for 45.208)
+2018.10.15 at 23:03:33 CST INFO  com.example.demo.service.DemoService 36 test - hello
